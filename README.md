@@ -8,6 +8,20 @@ Here you will find projects that I have worked on and code I have written to ana
 
 I have recently started a data science blog post series, which you can find on my website at <https://www.astrobrett.com/data_science.html>. If you are interested in the research work I did as a professional astronomer, focused primarily on the discovery and characterization of exoplanets, please also check out my website <https://www.astrobrett.com/>.
 
+<p>&nbsp;</p>
+
+<p align="center">
+  <figure>
+      <img src="https://www.astrobrett.com/images/planet_discoveries/TOI-1431b.png"
+           alt="TOI-1431b"
+           width="600"
+        >
+    <figcaption>Artist impression of the misaligned orbit of the ultra-hot Jupiter TOI-1431b/MASCARA-5b. TOI-1431b is one of the hottest exoplanets discovered to date. Image Credit: Brett Addison.</figcaption>
+  </figure>
+</p>
+
+<p>&nbsp;</p>
+
 ### Latest Data Science Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
@@ -19,4 +33,4 @@ I have recently started a data science blog post series, which you can find on m
 
 ### You can also find me on:
 
-[<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dr-brett-addison-810941b8/) [<img src='https://www.astrobrett.com/images/favicon.png' alt='website' height='40'>](https://www.astrobrett.com/)
+[<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dr-brett-addison-810941b8/) [<img src='https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg' alt='website' height='40'>](https://bsky.app/profile/astrobrett.com) [<img src='https://www.astrobrett.com/images/favicon.png' alt='website' height='40'>](https://www.astrobrett.com/)
