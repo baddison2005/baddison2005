@@ -34,3 +34,5 @@ I have recently started a data science blog post series, which you can find on m
 ### You can also find me on:
 
 [<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dr-brett-addison-810941b8/) [<img src='https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg' alt='website' height='40'>](https://bsky.app/profile/astrobrett.com) [<img src='https://www.astrobrett.com/images/favicon.png' alt='website' height='40'>](https://www.astrobrett.com/)
+
+If you enjoy the work that I do and want to help out, please consider becoming a [sponsor](https://github.com/sponsors/baddison2005).
