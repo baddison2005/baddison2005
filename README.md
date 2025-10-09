@@ -2,7 +2,7 @@
 
 ###### *Astrophysicist · Data Scientist*
 
-Welcome to my GitHub repository! I am astrophysicist currently transitioning into data science. I am very passionate about science, astronomy, mathematics, statistics, and data science.
+Welcome to my GitHub repository! I am an astrophysicist and data scientist. I am very passionate about science, astronomy, mathematics, statistics, and data science.
 
 Here you will find projects that I have worked on and code I have written to analyze data. I am always keen to explore new ideas and develop new projects in astronomy and data science. If you would like to collaborate on a project, please do reach out via my email at <baddison2005@gmail.com>!
 
