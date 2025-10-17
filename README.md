@@ -6,7 +6,7 @@ Welcome to my GitHub repository! I am an astrophysicist and data scientist. I am
 
 Here you will find projects that I have worked on and code I have written to analyze data. I am always keen to explore new ideas and develop new projects in astronomy and data science. If you would like to collaborate on a project, please do reach out via my email at <baddison2005@gmail.com>!
 
-I have recently started a data science blog post series, which you can find on my website at <https://www.astrobrett.com/data_science.html>. If you are interested in the research work I did as a professional astronomer, focused primarily on the discovery and characterization of exoplanets, please also check out my website <https://www.astrobrett.com/>.
+I have recently started a data science blog post series, which you can find on my website at <https://www.astrobrett.com/data_science.html>. If you are interested in the research work I do as a professional astronomer, focused primarily on the discovery and characterization of exoplanets, please also check out my website <https://www.astrobrett.com/>.
 
 <p>&nbsp;</p>
 
