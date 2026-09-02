@@ -36,6 +36,11 @@ I have recently started a data science blog post series, which you can find on m
 - [Predicting the Orbital Obliquities of Exoplanets Part 1: Background on Exoplanets and Orbital Obliquity](https://astrobrett.com/data_science/obliquity_ML_part1.html)
 <!-- BLOG-POST-LIST:END -->
 
+### Application Development:
+- **Window Layouts for macOS and KDE Plasma:** I have recently expanded into open source application development with **Window Layouts**, a pair of desktop utilities for quickly arranging and managing application windows using predefined or fully customizable layouts. [Window Layouts for macOS](https://github.com/baddison2005/window-layouts-macos) is a native macOS application featuring custom layouts, global keyboard shortcuts, multi-display support, and optional visual drag-and-drop layout controls. [Window Layouts for KDE Plasma](https://github.com/baddison2005/window-layouts-kde) brings similar functionality to KDE Plasma 6 on Wayland, including custom layouts, window and workspace management, keyboard shortcuts, and integration with the Plasma desktop. Custom layouts can also be shared between the macOS and KDE versions.
+
+  Both applications were developed with substantial assistance from **OpenAI's Codex**. I directed the application design, requirements, testing, and releases, while Codex assisted with code implementation, debugging, documentation, and packaging.
+
 ### You can also find me on:
 
 [<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dr-brett-addison-810941b8/) [<img src='https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg' alt='website' height='40'>](https://bsky.app/profile/astrobrett.com) [<img src='https://www.astrobrett.com/images/favicon.png' alt='website' height='40'>](https://www.astrobrett.com/)
